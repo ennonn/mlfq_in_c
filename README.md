@@ -159,7 +159,8 @@ Process 5 finished at time 30
 
 
 **Summary**
-*MLFQ Scheduler: Manages processes in multiple priority levels, demoting processes to lower priorities if they exceed their time slice.
-*Queues: Implemented using arrays and managed with enqueue and dequeue operations.
-*Processes: Have different burst times and are moved through priority queues until they reach the FCFS queue.
-*Output: Prints the execution of each process at each time unit, including when they are moved to the FCFS queue and their completion times.
+
+***MLFQ Scheduler: Manages processes in multiple priority levels, demoting processes to lower priorities if they exceed their time slice.***
+***Queues: Implemented using arrays and managed with enqueue and dequeue operations.***
+***Processes: Have different burst times and are moved through priority queues until they reach the FCFS queue.***
+***Output: Prints the execution of each process at each time unit, including when they are moved to the FCFS queue and their completion times.***
