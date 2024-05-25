@@ -1,7 +1,8 @@
 # Multi-Level Feedback Queue (MLFQ) Scheduler in C
 
-[Replit](#https://replit.com/@AljonFernando/MultiLevelFeedbackQueueAlgorithm)
 This repository contains a C program implementing a Multi-Level Feedback Queue (MLFQ) scheduler. The MLFQ scheduler is designed to manage processes with different burst times across multiple priority levels. Processes move to lower priority queues if they exceed their time slice in the current queue, eventually being executed in a First-Come-First-Served (FCFS) manner.
+
+[Try it on REPLIT](https://replit.com/@AljonFernando/MultiLevelFeedbackQueueAlgorithm)
 
 ## Program Overview
 
